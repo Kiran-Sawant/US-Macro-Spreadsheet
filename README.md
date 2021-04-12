@@ -15,7 +15,7 @@ The feedr.py script collects the following US macro-economic indicators and feed
   - Institute of Supply Managers, Producers Manufacturing Index(PMI).
   - Institute of Supply Managers, non-Manufacturing Index (NMI/Service PMI).
   - University of Michigan Consumer Sentiment Index(UMCSI).
-  - US Census Board Building Permits(BP).
+  - US Census Board Building Permits Seasonaly Adjusted(BP).
   - US M2 money supply probability distribution(M2).
   - US Fedral Reserve Interbank interest rate(IR%).
   - US Consumer Price Index Food & Energy(CPIAUCSL).

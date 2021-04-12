@@ -1,7 +1,8 @@
+from datetime import date
+
 import xlwings as xl
 import pandas as pd
 import pandas_datareader as pdr
-from datetime import date
 
 #____________PMI_____________#
 pmi = pdr.DataReader('ISM/MAN_PMI', data_source='quandl', start='1948-01-01', api_key='rz7xyB845FPbzgMAwyg-')

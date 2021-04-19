@@ -10,7 +10,7 @@ It is a project in data wrangling, that collects and wrangles data according to 
 - pandas_datareader
 
 ## Contents
-Open the excel file and run feedr.py, it will update the columns with latest numbers. The feedr.py script collects the following US macro-economic indicators and feeds them to the 'US Endo Copy.xlsx' file.
+Open the 'US endo Copy.xlsx' file and run feedr.py, it will update the columns with latest numbers. The feedr.py script collects the following US macro-economic indicators and feeds them to the 'US Endo Copy.xlsx' file.
 
   - Institute of Supply Managers, Producers Manufacturing Index(PMI).
   - Institute of Supply Managers, non-Manufacturing Index (NMI/Service PMI).
